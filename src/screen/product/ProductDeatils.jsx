@@ -175,7 +175,7 @@ export const ProductDeatils = () => {
 
         <div className="flex justify-between flex-col lg:flex-row my-10">
           <div className="lg:w-1/2">
-            <Title level={3}>Fits your Child</Title>
+            <Title level={3}>Fits Well</Title>
             <Caption>
               Lorem ipsum dolor sit, amet consectetur adipisicing elit. Sit
               veniam iusto aperiam, voluptatum animi odit itaque est magnam. Aut

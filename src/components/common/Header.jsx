@@ -1,5 +1,5 @@
 import React, { useEffect, useRef, useState } from "react";
-import LogoImg from "../../assets/common/logo.png";
+import LogoImg from "../../assets/common/logo.jpeg";
 import { menulists } from "../../assets/data/data";
 import { CustomerLink, CustomerNavLink } from "./CustomComponents";
 import { IoSearchOutline } from "react-icons/io5";
@@ -54,10 +54,10 @@ const Header = () => {
               isScrolled ? "lg:bg-none" : "lg:bg-black"
             } lg:h-[80px] lg:absolute lg:top-0 lg:right-0 lg:w-1/3 lg:-z-10`}></div>
         )}
-        <nav className="p-4 flex justify-between items-center relative">
+        <nav className="p-41 flex justify-between items-center relative">
           <div className="flex items-center gap-14">
             <div>
-              <img src={LogoImg} alt="LogoImg" className="h-7" />
+              <img src={LogoImg} alt="LogoImg" className="h-16" />
             </div>
             <div className="hidden lg:flex items-center justify-between gap-8">
               {menulists.map((list) => (

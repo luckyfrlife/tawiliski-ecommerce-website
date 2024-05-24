@@ -25,7 +25,7 @@ export const CartPage = () => {
     <>
       <section className="mt-16">
         <div className="h-[50vh]">
-          <div className="images absolute top-0 left-0 w-full h-1/2">
+          <div className="images absolute top-20 left-0 w-full h-1/2">
             <img src={BgImage} alt="" className="w-full h-full object-cover" />
           </div>
           <div className="text absolute top-48 left-[45%]">

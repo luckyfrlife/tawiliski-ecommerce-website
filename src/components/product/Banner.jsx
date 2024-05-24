@@ -21,7 +21,7 @@ export const Banner = () => {
                 <Title level={2} className="my-5">
                   {info.title}
                 </Title>
-                <BodyOne>{info.description}</BodyOne>
+                {/* <BodyOne>{info.description}</BodyOne> */}
                 <button className="secondary-btn">Shop Now</button>
               </div>
             </div>

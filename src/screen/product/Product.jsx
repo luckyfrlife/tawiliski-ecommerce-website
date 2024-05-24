@@ -12,7 +12,7 @@ export const Product = () => {
           <div className="flex items-center gap-3 uppercase">
             <BodyOne className="text-sm">All Products (39)</BodyOne>
             <BodyOne className="text-sm text-primary-green">
-              wooden products (15)
+              Products (15)
             </BodyOne>
           </div>
 

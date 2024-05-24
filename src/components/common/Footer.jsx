@@ -1,5 +1,5 @@
 import React from "react";
-import LogoImg from "../../assets/common/logo.png";
+import LogoImg from "../../assets/common/logo.jpeg";
 import { BodyOne, Caption, CustomerLink, Title } from "./CustomComponents";
 
 export const Footer = () => {

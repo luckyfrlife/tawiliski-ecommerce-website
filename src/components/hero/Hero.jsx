@@ -130,23 +130,24 @@ const Banner = () => {
       <div className="py-20 container flex flex-col lg:flex-row items-center gap-5">
         <div>
           <BannerCard
-            title="Wooden Water Bottles"
-            desc="UP TO 60% OFF"
+            // title="Leather Shoes"
+            // desc="UP TO 60% OFF"
             cover="./images/hero/product1-1.png"
+            className=""
           />
         </div>
         <div className="flex justify-between flex-col gap-8">
           <BannerCard
-            title="Wooden Water Bottles"
-            desc="UP TO 60% OFF"
+            // title="Leather Bags "
+            // desc="UP TO 40% OFF"
             cover="./images/hero/product2.png"
-            className={true}
+            className=""
           />
           <BannerCard
-            title="Wooden Water Bottles"
-            desc="UP TO 60% OFF"
+            // title="Wooden Water Bottles"
+            // desc="UP TO 50% OFF"
             cover="./images/hero/product3.png"
-            className={true}
+            className=""
             classSecond={true}
           />
         </div>
@@ -171,9 +172,9 @@ const BannerCard = ({ title, desc, cover, className, classSecond }) => {
             <Title level={2}>{title}</Title>
             <p className="text-lg font-normal leading-none">{desc}</p>
           </div>
-          <div className="w-1/2 mt-5">
+          {/* <div className="w-1/2 mt-5">
             <button className="secondary-btn flex justify-end">Shop Now</button>
-          </div>
+          </div> */}
         </div>
       </div>
     </>

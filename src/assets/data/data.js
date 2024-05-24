@@ -34,9 +34,9 @@ export const menulists = [
 export const herolist = [
   {
     id: 1,
-    title: "Natural Wooden Products",
+    title: "Natural Leather Products",
     description:
-      "Sell globally in minutes with localized currencies, languages, and experiences in every market.",
+      "Effortlessly sell worldwide in minutes with our platform, designed to offer localized currencies, languages, and customized experiences for every market.",
     image: "../images/hero/h1.png",
     price: [
       {
@@ -62,9 +62,9 @@ export const herolist = [
   },
   {
     id: 2,
-    title: "Explore Wooden Products",
+    title: "Explore Leather Products",
     description:
-      "Sell globally in minutes with localized currencies, languages, and experiences in every market.",
+      "Transform your fashion brand into a global phenomenon. Start selling internationally in minutes with localized currencies, languages, and personalized shopping experiences for every market.",
     image: "../images/hero/h2.png",
     price: [
       {
@@ -93,9 +93,9 @@ export const herolist = [
 export const productlists = [
   {
     id: 1,
-    title: "Wooden single drawer",
+    title: "Women Leather Bag",
     description:
-      "Enhance your home decor with our Wooden Single Drawer. Crafted with precision and designed for functionality, this drawer provides ample storage space while adding a touch of elegance to any room. The rich wooden finish complements a variety of interior styles, making it a versatile addition to your home. The discount of 10% makes it an affordable choice, and with a rating of 2.5, it's a reliable and stylish furniture piece. Featured as a top pick, this drawer is a must-have for those who appreciate quality craftsmanship.",
+      "Upgrade your fashion game with our premium Leather Bag. Expertly crafted and designed for both elegance and functionality, this bag offers ample space for your essentials while adding a touch of sophistication to any outfit. The rich leather finish complements a variety of styles, making it a versatile addition to your wardrobe. With a 10% discount, it's an affordable luxury, and its 4.5-star rating attests to its quality and chic appeal. Featured as a top pick, this leather bag is a must-have for those who appreciate exquisite craftsmanship and timeless fashion.",
     images: [
       { image: "../images/product/product1.png" },
       { image: "../images/product/product1.3.png" },
@@ -113,9 +113,9 @@ export const productlists = [
   },
   {
     id: 2,
-    title: "Wooden Serving Bowl",
+    title: "Men Leather Shoe",
     description:
-      "Elevate your dining experience with our exquisite Wooden Serving Bowl. Carved from high-quality wood, this bowl brings a touch of nature to your table. Its deep design is perfect for serving salads, fruits, or your favorite dishes. The 15% discount makes it an excellent deal, and with a rating of 4.2, it combines style and functionality seamlessly. Although not featured, this bowl stands out as a practical and beautiful addition to your kitchen.",
+      "Step up your fashion game with our luxurious Leather Shoes. Crafted from high-quality leather, these shoes bring a touch of sophistication to any ensemble. Their classic design is perfect for both formal and casual occasions, ensuring you look your best no matter the event. With a 15% discount, these shoes offer excellent value, and their 4.2-star rating attests to their style and functionality. Although not featured, these shoes stand out as a practical and elegant addition to your collection, making them a must-have for those who appreciate quality craftsmanship and timeless fashion.",
     images: [
       { image: "../images/product/product2.png" },
       { image: "../images/product/product1.3.png" },
@@ -133,9 +133,9 @@ export const productlists = [
   },
   {
     id: 3,
-    title: "Wooden Glass",
+    title: "Women Leather Bag",
     description:
-      "Sip in style with our Wooden Glass collection. Crafted with precision, these wooden glasses add a natural touch to your beverage experience. The set includes glasses in various colors to suit your mood. With a 12% discount, these glasses offer both aesthetics and affordability. Rated at 4.5, these glasses are perfect for daily use or special occasions, making them a versatile addition to your glassware collection.",
+      "Upgrade your fashion game with our premium Leather Bag. Expertly crafted and designed for both elegance and functionality, this bag offers ample space for your essentials while adding a touch of sophistication to any outfit. The rich leather finish complements a variety of styles, making it a versatile addition to your wardrobe. With a 10% discount, it's an affordable luxury, and its 4.5-star rating attests to its quality and chic appeal. Featured as a top pick, this leather bag is a must-have for those who appreciate exquisite craftsmanship and timeless fashion.",
     images: [
       { image: "../images/product/product3.png" },
       { image: "../images/product/product1.2.png" },
@@ -153,9 +153,9 @@ export const productlists = [
   },
   {
     id: 4,
-    title: "Wooden Cup",
+    title: "Men Shoe",
     description:
-      "Experience the warmth of wooden craftsmanship with our Wooden Cup collection. Each cup is meticulously crafted to bring a rustic charm to your kitchen. The 18% discount makes it an excellent value, and with a high rating of 4.8, these cups are a favorite among those who appreciate quality. Not featured, but certainly not to be overlooked, these wooden cups are perfect for enjoying your favorite beverages.",
+      "Step up your fashion game with our luxurious Leather Shoes. Crafted from high-quality leather, these shoes bring a touch of sophistication to any ensemble. Their classic design is perfect for both formal and casual occasions, ensuring you look your best no matter the event. With a 15% discount, these shoes offer excellent value, and their 4.2-star rating attests to their style and functionality. Although not featured, these shoes stand out as a practical and elegant addition to your collection, making them a must-have for those who appreciate quality craftsmanship and timeless fashion.",
     images: [
       { image: "../images/product/product4.png" },
       { image: "../images/product/product1.1.png" },
@@ -177,9 +177,9 @@ export const productlists = [
   },
   {
     id: 5,
-    title: "Wooden Coffee Mug",
+    title: "Women Leather Shoe",
     description:
-      "Start your day with the charm of our Wooden Coffee Mugs. Crafted with care, these mugs bring a touch of nature to your morning routine. The 15% discount ensures affordability without compromising on style. With a rating of 4.0, these mugs are not just functional but also visually appealing. While not featured, they are a delightful addition to any coffee lover's collection.",
+      "Step up your fashion game with our luxurious Leather Shoes. Crafted from high-quality leather, these shoes bring a touch of sophistication to any ensemble. Their classic design is perfect for both formal and casual occasions, ensuring you look your best no matter the event. With a 15% discount, these shoes offer excellent value, and their 4.2-star rating attests to their style and functionality. Although not featured, these shoes stand out as a practical and elegant addition to your collection, making them a must-have for those who appreciate quality craftsmanship and timeless fashion.",
     images: [
       { image: "../images/product/product5.png" },
       { image: "../images/product/product1.3.png" },
@@ -197,9 +197,9 @@ export const productlists = [
   },
   {
     id: 6,
-    title: "Wooden Brush",
+    title: "Men Polishable Shoe",
     description:
-      "Upgrade your grooming routine with our Wooden Brush collection. Made with high-quality materials, these brushes offer a natural and comfortable grooming experience. The 20% discount makes them a great value, and with a rating of 4.2, they are a reliable choice for your daily routine. Although not featured, these wooden brushes stand out for their durability and eco-friendly design.",
+      "Step up your fashion game with our luxurious Leather Shoes. Crafted from high-quality leather, these shoes bring a touch of sophistication to any ensemble. Their classic design is perfect for both formal and casual occasions, ensuring you look your best no matter the event. With a 15% discount, these shoes offer excellent value, and their 4.2-star rating attests to their style and functionality. Although not featured, these shoes stand out as a practical and elegant addition to your collection, making them a must-have for those who appreciate quality craftsmanship and timeless fashion.",
     images: [
       { image: "../images/product/product6.png" },
       { image: "../images/product/product1.2.png" },
@@ -217,9 +217,9 @@ export const productlists = [
   },
   {
     id: 7,
-    title: "Wooden Bottles",
+    title: "Women Leather Slippers",
     description:
-      "Elevate your hydration experience with our Wooden Bottles. Crafted with precision and designed for durability, these bottles are an eco-friendly choice for your daily water intake. The 15% discount makes them an affordable and sustainable option. With a rating of 3.5, these bottles are a practical and stylish addition to your daily routine.",
+      "Step up your fashion game with our luxurious Women's Leather Shoes. Crafted from high-quality leather, these shoes bring a touch of sophistication to any ensemble. Their elegant design is perfect for both formal events and casual outings, ensuring you look your best no matter the occasion. With a 15% discount, these shoes offer excellent value, and their 4.2-star rating attests to their style and functionality. Although not featured, these shoes stand out as a practical and elegant addition to your collection, making them a must-have for women who appreciate quality craftsmanship and timeless fashion.",
     images: [
       { image: "../images/product/product7.png" },
       { image: "../images/product/product1.3.png" },
@@ -237,9 +237,9 @@ export const productlists = [
   },
   {
     id: 8,
-    title: "Luxury Couch",
+    title: "Women high heel shoe",
     description:
-      "Indulge in luxury with our Elegant and Comfortable Wooden Couch. Crafted with meticulous attention to detail, this couch adds a touch of sophistication to your living room. The 25% discount makes it a premium choice without compromising on quality. With an impressive rating of 4.8, this couch is a featured product for those who seek both style and comfort.",
+      "Step up your fashion game with our luxurious Women's Leather Shoes. Crafted from high-quality leather, these shoes bring a touch of sophistication to any ensemble. Their elegant design is perfect for both formal events and casual outings, ensuring you look your best no matter the occasion. With a 15% discount, these shoes offer excellent value, and their 4.2-star rating attests to their style and functionality. Although not featured, these shoes stand out as a practical and elegant addition to your collection, making them a must-have for women who appreciate quality craftsmanship and timeless fashion.",
     images: [
       {
         image: "../images/product/product8.png",
